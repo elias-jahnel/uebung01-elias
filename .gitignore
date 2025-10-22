@@ -1,0 +1,6 @@
+# Java
+*.class
+/out/
+/bin/
+/target/
+.vscode/
